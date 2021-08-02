@@ -1,5 +1,5 @@
 
-### ✨ Core Skills:
+###  Core Skills:
 <!-- 
 - **Languages/Technologies:** Java/JavaEE, SQL, Javascript, REST API, Python, C/C++, HTML5, CSS3
 - **Frameworks:** ReactJS, Node.js, Django
