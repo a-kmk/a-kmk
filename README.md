@@ -8,7 +8,7 @@
 
 ``` yaml
 {
-  "languages": "Java, SQL, Javascript, REST API, Python, C++,HTML, CSS",
+  "languages": "Java, SQL, Javascript, REST API, Python, C++, HTML, CSS",
   "frameworks": "ReactJS, Node.js, Django",
   "tools": "Visual Studio Code, Eclipse, Pycharm, Git, Postman, MS-Office, intelliJ",
   "apacheProjects": "Maven, Tomcat",
