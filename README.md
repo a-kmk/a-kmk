@@ -8,11 +8,10 @@
 
 ``` yaml
 {
-  "languages/technologies": "Java, SQL, R, Python, C/C++, HTML, CSS, Javascript, TypeScript, Kubernetes",
-  "frameworks": "Spring, Angular, ReactJS, Django, Node.js",
-  "tools": "Git, Eclipse, VS Code, PyCharm, IntelliJ, Postman, MS-Office, R Studio, Gantt, Figma, Adobe",
-  "apacheProjects": "Airflow, Beam, Maven, Tomcat",
-  "os": "Linux, Ubuntu, Windows, Mac",
-  "dbms/dataWarehouses/analytics": "MySQL, PostgreSQL, BigQuery, DBT, Snowflake, Dataflow"
+  "languages": "Java, SQL, Javascript, REST API, Python, C++,HTML, CSS",
+  "frameworks": "ReactJS, Node.js, Django",
+  "tools": "Visual Studio Code, Eclipse, Pycharm, Git, Postman, MS-Office, intelliJ",
+  "apacheProjects": "Maven, Tomcat",
+  "dbms": "MySQL, PostgreSQL
 }
 ```
