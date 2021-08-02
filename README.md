@@ -1,11 +1,9 @@
 
 ### ✨ Core Skills:
 <!-- 
-- **Languages/Technologies:** Java/JavaEE, SQL, R, Python, C/C++, HTML5, CSS3, JavaScript, TypeScript, REST API
-- **Frameworks:** Spring Framework, Spring Data, Spring Boot, Angular 10, ReactJS, Node.js, Django
-- **Tools:** Eclipse, Visual Studio Code, Pycharm, Git, Tomcat, Postman, MS-Office, R Studio, Gantt Chart, Maven, Airflow, Figma, Adobe (Photoshop, Illustrator)
-- **Operating Systems:** Linux, Windows
-- **Databases:** MySQL 8/9, PostgreSQL
+- **Languages/Technologies:** Java/JavaEE, SQL, Javascript, REST API, Python, C/C++, HTML5, CSS3
+- **Frameworks:** ReactJS, Node.js, Django
+- **Tools:** Visual Studio Code, Eclipse, Pycharm, Git, Postman, MS-Office, intelliJ
 -->
 
 ``` yaml
