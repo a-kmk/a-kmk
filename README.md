@@ -9,9 +9,9 @@
 ``` yaml
 {
   "languages": "Java, SQL, Javascript, REST API, Python, C++, HTML, CSS",
-  "frameworks": "ReactJS, Node.js, Django",
+  "frameworks": "ReactJS, Node.js",
   "tools": "Visual Studio Code, Eclipse, Pycharm, Git, Postman, MS-Office, intelliJ",
   "apacheProjects": "Maven, Tomcat",
-  "dbms": "MySQL, PostgreSQL
+  "dbms": "MySQL, 
 }
 ```
