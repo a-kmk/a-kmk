@@ -12,6 +12,6 @@
   "frameworks": "ReactJS, Node.js",
   "tools": "Visual Studio Code, Eclipse, Pycharm, Git, Postman, MS-Office, intelliJ",
   "apacheProjects": "Maven, Tomcat",
-  "dbms": "MySQL, 
+  "dbms": "MySQL
 }
 ```
